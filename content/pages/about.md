@@ -16,6 +16,6 @@ sections:
       commodo consequat.
     image:
       type: Image
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/favicon.svg
       altText: Image alt text
 ---
