@@ -14,4 +14,8 @@ sections:
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
       veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
       commodo consequat.
+    image:
+      type: Image
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: Image alt text
 ---
